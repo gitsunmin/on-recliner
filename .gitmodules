@@ -7,3 +7,6 @@
 [submodule "funny-web-api"]
 	path = funny-web-api
 	url = https://github.com/gitsunmin/funny-web-api.git
+[submodule "funny-bundlers"]
+	path = funny-bundlers
+	url = https://github.com/gitsunmin/funny-bundlers.git
