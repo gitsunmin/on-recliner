@@ -1,0 +1,9 @@
+[submodule "funny-calculator"]
+	path = funny-calculator
+	url = https://github.com/gitsunmin/funny-calculator.git
+[submodule "funny-roulette"]
+	path = funny-roulette
+	url = https://github.com/gitsunmin/funny-roulette.git
+[submodule "funny-web-api"]
+	path = funny-web-api
+	url = https://github.com/gitsunmin/funny-web-api.git
