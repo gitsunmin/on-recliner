@@ -1,12 +1,16 @@
 [submodule "funny-calculator"]
 	path = funny-calculator
 	url = https://github.com/gitsunmin/funny-calculator.git
+	branch = master
 [submodule "funny-roulette"]
 	path = funny-roulette
 	url = https://github.com/gitsunmin/funny-roulette.git
+	branch = main
 [submodule "funny-web-api"]
 	path = funny-web-api
 	url = https://github.com/gitsunmin/funny-web-api.git
+	branch = master
 [submodule "funny-bundlers"]
 	path = funny-bundlers
 	url = https://github.com/gitsunmin/funny-bundlers.git
+	branch = master
