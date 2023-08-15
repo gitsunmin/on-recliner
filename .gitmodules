@@ -14,3 +14,6 @@
 	path = funny-bundlers
 	url = https://github.com/gitsunmin/funny-bundlers.git
 	branch = master
+[submodule "funny-code-flashcard"]
+	path = funny-code-flashcard
+	url = https://github.com/gitsunmin/funny_code_flashcard.git
