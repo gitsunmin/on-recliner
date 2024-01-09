@@ -17,3 +17,6 @@
 [submodule "funny-code-flashcard"]
 	path = funny-code-flashcard
 	url = https://github.com/gitsunmin/funny_code_flashcard.git
+[submodule "dot"]
+	path = dot
+	url = https://github.com/gitsunmin/dot.git
