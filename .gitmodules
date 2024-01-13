@@ -20,3 +20,6 @@
 [submodule "dot"]
 	path = dot
 	url = https://github.com/gitsunmin/dot.git
+[submodule "dot_controller"]
+	path = dot_controller
+	url = https://github.com/gitsunmin/dot_controller.git
