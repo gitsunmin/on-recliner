@@ -23,3 +23,6 @@
 [submodule "dot_controller"]
 	path = dot_controller
 	url = https://github.com/gitsunmin/dot_controller.git
+[submodule "k-number"]
+	path = k-number
+	url = https://github.com/gitsunmin/k-number.git
