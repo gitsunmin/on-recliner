@@ -26,3 +26,6 @@
 [submodule "k-number"]
 	path = k-number
 	url = https://github.com/gitsunmin/k-number.git
+[submodule "graph-man"]
+	path = graph-man
+	url = https://github.com/gitsunmin/graph-man.git
